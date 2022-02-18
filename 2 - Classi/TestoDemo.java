@@ -18,7 +18,9 @@ public class TestoDemo
 
 /*
 
-Nel programma Java TestoDemo, andiamo ad invocare rispettivamente i metodi :
+Nel programma Java TestoDemo, creiamo un oggetto String denominato parola successivamente,
+
+andiamo ad invocare rispettivamente i metodi :
 
 - length() che conta i caratteri della stringa memorizzata in parola.
 
