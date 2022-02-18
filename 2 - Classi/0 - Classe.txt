@@ -1,0 +1,27 @@
+In Java, per descrivere il comportamento di oggetti, si definiscono classi.
+Ogni oggetto ha uno specifico comportamento e può essere manipolato per raggiungere determinati obiettivi.
+Un oggetto (object) è un’entità che si può manipolare mediante l’invocazione dei suoi metodi (method). 
+Un metodo è costituito da una sequenza di istruzioni che possono accedere ai dati interni dell’oggetto: 
+quando invocate (o, come anche si dice,“chiamate”) un metodo, non sapete con precisione quali siano le sue istruzioni, 
+né sapete come sia organizzato internamente l’oggetto, ma il comportamento del metodo è ben definito e questo è ciò che ci interessa 
+quando lo usiamo.
+Per esempio, nella cartella 0 - Hello avete visto che System.out si riferisce a un oggetto, 
+che può essere manipolato invocando il metodo println. Quando viene chiamato il metodo println, 
+all’interno dell’oggetto si svolgono alcune attività, il cui effetto finale è che l’oggetto fa comparire il testo nella finestra di console. 
+Non sapete come ciò avvenga, ma questo non è un problema: ciò che importa è che il metodo porti a termine il lavoro che avete richiesto.
+Analizziamo ora più in dettaglio la classe PrintStream
+___________________________________________________________________________
+PrintStream -> è la classe a cui appartiene l'oggetto System.out
+
+data -> i dati interni all'oggetto
+
+print e println -> sono i metodi che si possono invocare con System.out
+___________________________________________________________________________
+
+Facendo un esempio più semplice, possiamo dire :
+
+La differenza tra una classe e un oggetto è la stessa che c'è tra un insieme e un elemento dell'insieme. 
+La classe è un insieme che contiene gli oggetti (elementi). 
+Tutti gli oggetti hanno in comune le proprietà dell'insieme.
+
+La classe animali è un insieme caratterizzato da attributi (specie, genere, ecc.) e metodi (verso, ecc.).
