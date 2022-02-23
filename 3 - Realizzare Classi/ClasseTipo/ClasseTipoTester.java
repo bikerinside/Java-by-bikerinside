@@ -23,3 +23,11 @@ public class ClasseTipoTester
     }
 
 }
+/*
+La classe ClasseTipoTester è realizzata per testare le funzionalità della classe ClasseTipo
+che ha il compito di realizzare un oggetto di tipo miocontatore, infatti andando a testare i metodi della classe.
+L'output aspettato deve essere :
+0
+3
+0
+*/
