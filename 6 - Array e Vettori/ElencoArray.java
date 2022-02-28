@@ -61,4 +61,9 @@ public class ElencoArray
 Come abbiamo visto gli array hanno un grosso limite e cioe' quello di dover definire a priori la loro grandezza
 rendendoli di fatto finiti, quindi non possiamo usarli se non conosciamo fin dall'inizio la quantita' di dati da memorizzare
 per questo motivo nel prossimo file.java vedremo l'uso dei Vettori in Java.
+Inoltre includendo :
+
+import java.util.Arrays;
+
+si possono utilizzare tutta una serie di metodi utili alla manipolazione degli array
 */
