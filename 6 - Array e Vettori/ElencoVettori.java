@@ -14,7 +14,7 @@ public class ElencoVettori
     nomi.add("Mia");
     nomi.add("Michele");
     
-    System.out.println(nomi)
+    System.out.println(nomi);
     /* oppure */
     for(String nome : nomi)
     {
@@ -38,6 +38,8 @@ public class ElencoVettori
       System.out.println(numero);
     
     }
+    
+    System.out.println("Grandezza vettore numeri = " + numeri.size());
     
     System.exit(0);
     
@@ -73,4 +75,18 @@ per generare valori di tipo primitivo, mediante un processo denominato auto-unbo
 
 double X = wrappe r ;
 
+Ovviamente la classe ArrayList, contiene una serie di metodi utili alla gestione dei Vettori
+
+
+Array o vettore?
+Per la maggior parte dei programmatori è più semplice utilizzare un vettore, perché i
+vettori aumentano e diminuiscono la propria dimensione in modo automatico. Di contro,
+gli array mettono a disposizione una sintassi molto più elegante e comoda per accedere
+agli elementi e per inizializzarli.
+Quale contenitore è meglio utilizzare? Ecco alcuni consigli.
+• Se la dimensione del contenitore non cambia mai, usate un array.
+• Se dovete memorizzare una lunga sequenza di valori di tipo primitivo e dovete fare
+particolarmente attenzione alPefFicienza, usate un array.
+• In tutti gli altri casi usate un vettore.
 */
+
