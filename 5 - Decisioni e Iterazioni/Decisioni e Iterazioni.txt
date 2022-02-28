@@ -1,0 +1,9 @@
+Nel linguaggio di programmazione Java le decisioni :
+
+if, if-else, switch-case 
+
+Sono uguali al linguaggio C, quindi non verrà mostrato nessun esempio, ma ci limiteremo a ripassare dal libro.
+
+Stesso discorso per quanto riguarda le iterazioni
+
+while, for, do-while.
