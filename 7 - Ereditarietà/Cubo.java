@@ -35,6 +35,7 @@ public class Cubo extends Solido
         SetAreaBase();
 
         return AreaBase;
+        
     }
     // Il metodo GetVolume invoca il metodo SetVolumeCubo e restituisce il volume del cubo
     public double GetVolume()
